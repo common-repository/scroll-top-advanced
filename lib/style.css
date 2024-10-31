@@ -1,0 +1,52 @@
+.gclr {
+    box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4), 0 0px 0px rgba(0,0,0,0.5);
+}
+.wp-list-table th {
+	font-weight: bold;
+}
+    .scrol-top-advanced a:focus {
+        text-decoration: none;
+    }
+.na-style{
+    vertical-align: middle;
+    text-align: center;
+    display: none;
+    border-radius: 10px;
+}
+.na-style:hover {
+    opacity: 1 !important;
+    transition: all .35s ease-in-out;
+}
+
+.na-style2 {
+   	display: none;
+	border-radius: 35px;
+    vertical-align: middle;
+    text-align: center;
+}
+.na-style2:hover {
+    opacity: 1 !important;
+    transition: all .35s ease-in-out;
+}
+
+.na-style3 {
+    display: none;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+.na-style3:hover {
+    opacity: 1 !important;
+    transition: all .35s ease-in-out;
+}
+
+.na-style4 {
+    vertical-align: middle;
+    text-align: center;
+    display: none;
+}
+.na-style4:hover {
+    opacity: 1 !important;
+    transition: all .35s ease-in-out;
+}
